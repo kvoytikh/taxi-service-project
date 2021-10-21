@@ -7,7 +7,7 @@
 I have created this "Taxi service" project to demonstrate my expertise in Java Core, OOP, SOLID concepts, JDBC, RDBMS, 
 JDBC and WEB-technology.
 
-##Features provided by the application for registered users
+## Features provided by the application for registered users
 
 1. User(driver) can create new car or manufacturer
 2. Add driver to a specific car
